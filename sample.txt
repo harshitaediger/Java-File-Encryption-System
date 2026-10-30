@@ -1,0 +1,9 @@
+Java File Encryption System
+
+This project is developed using Java to protect files from unauthorized access.
+
+It uses password-based AES encryption to convert readable text into encrypted data.
+
+The original content can be restored by entering the correct password during decryption.
+
+This project demonstrates Java programming, file handling, password authentication and data security.
